@@ -8,7 +8,7 @@
 Este projeto implementa um sistema de monitoramento e previsão de saúde da cana-de-açúcar para a região de Ribeirão Preto/SP. Utilizando dados de satélite (Sentinel-2) e dados climáticos da NASA, o modelo de Inteligência Artificial prevê o índice NDVI (vigor da planta) com 7 dias de antecedência, permitindo decisões preventivas no manejo agrícola.
 
 ### 🚀 Demonstração
-> **Link para o Dashboard Interativo:** 
+> **Link para o Dashboard Interativo:** [https://agro-ia-2026-n2ov3dyptzkbxkqfhgvfoj.streamlit.app/]
 
 ---
 
