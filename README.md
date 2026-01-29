@@ -29,4 +29,4 @@ O diferencial deste modelo é a criação de atributos que simulam a "memória" 
 2.  **Camada de Entrega (App):** Dashboard interativo que atua como um **Agente Agrônomo**, gerando recomendações técnicas automáticas baseadas nas previsões da IA.
 
 ---
-**Desenvolvido por Filiphe** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/filipheassuncao/))
+**Desenvolvido por Filiphe** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipheassuncao/)
